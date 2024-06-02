@@ -25,8 +25,8 @@ You can find my coding projects here in my profile and through the following Org
 
 ## Some of my favourite personal projects so far:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xn4p4lm-org&repo=bot-o-cat&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xn4p4lm-org&repo=bot-o-cat&show_owner=true)](https://github.com/xn4p4lm-org/bot-o-cat)
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=github,py,aws,azure,ansible,terraform,go,ts,js,nextjs,tailwind,react,sass,rust,mongodb,mysql,ruby,apple,arduino,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,debian,discord,discordjs,docker,dotnet,eclipse,elasticsearch,gcp,git,githubactions,gmail,gradle,godot,grafana,graphql,html,java,jquery,kafka,kubernetes,less,linux,maven,nextjs,nginx,nodejs,npm,ps,postman,raspberrypi,redhat,redis,ubuntu,vim,visualstudio,vscode,yarn&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,py,aws,azure,ansible,terraform,go,ts,js,nextjs,tailwind,react,sass,rust,mongodb,mysql,ruby,apple,arduino,bash,bootstrap,c,cs,cpp,cloudflare,cmake,css,debian,discord,docker,dotnet,eclipse,elasticsearch,gcp,git,githubactions,gmail,gradle,grafana,graphql,html,java,jquery,kafka,kubernetes,less,linux,maven,nginx,nodejs,npm,ps,postman,raspberrypi,redhat,redis,ubuntu,vim,visualstudio,vscode,yarn&perline=12)](https://skillicons.dev)

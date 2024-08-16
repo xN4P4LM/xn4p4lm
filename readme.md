@@ -1,6 +1,6 @@
 # Hi, I'm Diana (she/her)
 
-Currently, I'm a Software Engineer at [GitHub](https://github.com/github) in the infrastructure org. Formerlly a [Customer Reliability Enginner](https://docs.github.com/en/enterprise-cloud@latest/support/learning-about-github-support/about-github-premium-support). When not working, you can find me programming, tinkering, reading, or taking all the pictures and videos!
+Currently, I'm a Software Engineer at [GitHub](https://github.com/github) in the infrastructure org. Formerly a [Customer Reliability Enginner](https://docs.github.com/en/enterprise-cloud@latest/support/learning-about-github-support/about-github-premium-support). When not working, you can find me programming, tinkering, reading, or taking all the pictures and videos!
 
 You can find my coding projects here in my profile and through the following Organisations:
 

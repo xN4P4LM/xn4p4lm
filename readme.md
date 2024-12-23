@@ -5,7 +5,8 @@ Currently, I'm a Software Engineer at [GitHub](https://github.com/github) in the
 You can find my coding projects here in my profile and through the following Organisations:
 
 - [xN4P4LM-org](https://github.com/xn4p4lm-org) - Main home of personal projects
-- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects for former and prospective business ventures
+- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects related to Andromeda Industries
+  - Operator of [AS401361](https://www.as401361.net/)
 
 # Connect with me
 

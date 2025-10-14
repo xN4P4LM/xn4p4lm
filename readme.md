@@ -2,11 +2,11 @@
 
 ## Day job
 
-Currently, I'm a Infrastructure Software Engineer here at [GitHub](https://github.com/github). Formerly a [Customer Reliability Enginner](https://docs.github.com/en/enterprise-cloud@latest/support/learning-about-github-support/about-github-premium-support) working with Premium Plus Support customers.
+Currently, I'm a Infrastructure Software Engineer here at [GitHub](https://github.com/github). 
 
 ## Passion Project
 
-Recently, I've been working on starting up [Andromeda Industries](https://www.andromedaindustries.com/) focusing on providing affordable and high performance Virtual Machines for personal, nonprofit, and small businesses. 
+Recently, I've been working on [Gigabit.Host](https://gigabit.host/) a community oriented open source hosting platform. You can find the project here: [Gigabit.Host](https://github.com/andromedaindustries/gigabit-host)
 
 ## Hobbies
 
@@ -20,14 +20,13 @@ When not working for GitHub or Myself, you can find me programming, tinkering, r
 
 - [xN4P4LM](https://github.com/xN4P4LM) - Projects that either are me experementing or just playing around will be on my profile
 - [xN4P4LM-org](https://github.com/xn4p4lm-org) - Any project I'm passonate about will be found in the xN4P4LM Org
-- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects related to [Andromeda Industries](https://www.andromedaindustries.com/)
-  - I also operate the Autonomous System 401361 for services provided - You can find more on our page [AS401361](https://www.as401361.net/)
-
+- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects related to [Andromeda Industries](https://www.andromedaindustries.com/) and [Gigabit.Host](https://gigabit.host/)
 # Connect with me
 
 [![Linktree](https://img.shields.io/badge/Linktree-00B289?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xn4p4lm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xn4p4lm)
 [![Mastodon](https://img.shields.io/badge/mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@xn4p4lm)
 [![Bluesky](https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lesbian.dev)
-[![Substack](https://img.shields.io/badge/Substack-FF7731?style=for-the-badge&logo=Substack&logoColor=white)](https://lesbian.dev/)
-[![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=Patreon&logoColor=white)](http://patreon.com/lesbian_dev)
+[![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=Patreon&logoColor=white)](http://patreon.com/xn4p4lm)
+
+<!-- [![Substack](https://img.shields.io/badge/Substack-FF7731?style=for-the-badge&logo=Substack&logoColor=white)](https://lesbian.dev/) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xn4p4lm) -->

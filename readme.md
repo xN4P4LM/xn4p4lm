@@ -24,7 +24,7 @@ When not working for GitHub or Myself, you can find me programming, tinkering, r
 # Connect with me
 
 [![Linktree](https://img.shields.io/badge/Linktree-00B289?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xn4p4lm)
-[![Mastodon](https://img.shields.io/badge/mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@xn4p4lm)
+[![Mastodon](https://img.shields.io/badge/mastodon-563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.lesbian.dev/@diana)
 [![Bluesky](https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/lesbian.dev)
 [![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=Patreon&logoColor=white)](http://patreon.com/xn4p4lm)
 

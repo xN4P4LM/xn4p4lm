@@ -1,8 +1,4 @@
-# Hi, I'm Diana (she/her)
-
-## Day job
-
-Currently, I'm a Infrastructure Software Engineer here at [GitHub](https://github.com/github). 
+# Hi, I'm Diana (she/her) 
 
 ## Passion Project
 
@@ -10,7 +6,7 @@ Recently, I've been working on [Gigabit.Host](https://gigabit.host/) a community
 
 ## Hobbies
 
-When not working for GitHub or Myself, you can find me programming, tinkering, reading, taking all the pictures, and ocassionaly writing on substack about my adventures through life.
+When not working you can find me programming, tinkering, reading, taking all the pictures, and ocassionaly writing about my adventures through life.
 
 ### You'll see me referenced by two usernames: 
 - xN4P4LM - This is my old gamertag from halo 2 days

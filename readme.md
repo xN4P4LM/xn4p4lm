@@ -12,7 +12,8 @@ When not working you can find me programming, tinkering, reading, taking all the
 
 - [xN4P4LM](https://github.com/xN4P4LM) - Projects that either are me experementing or just playing around will be on my profile
 - [xN4P4LM-org](https://github.com/xn4p4lm-org) - Any project I'm passonate about will be found in the xN4P4LM Org
-- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects related to [Andromeda Industries](https://www.andromedaindustries.com/) and [Gigabit.Host](https://gigabit.host/)
+- [Andromeda Industries](https://github.com/AndromedaIndustries) - Projects related to my side company
+- 
 # Connect with me
 
 [![Linktree](https://img.shields.io/badge/Linktree-00B289?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xn4p4lm)

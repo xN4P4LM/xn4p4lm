@@ -1,9 +1,5 @@
 # Hi, I'm Diana (she/her) 
 
-## Passion Project
-
-Recently, I've been working on [Gigabit.Host](https://gigabit.host/) a community oriented open source hosting platform. You can find the project here: [Gigabit.Host](https://github.com/andromedaindustries/gigabit-host)
-
 ## Hobbies
 
 When not working you can find me programming, tinkering, reading, taking all the pictures, and ocassionaly writing about my adventures through life.
